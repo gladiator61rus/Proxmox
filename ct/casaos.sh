@@ -19,9 +19,9 @@ EOF
 header_info
 echo -e "Loading..."
 APP="CasaOS"
-var_disk="8"
-var_cpu="2"
-var_ram="2048"
+var_disk="50"
+var_cpu="8"
+var_ram="16384"
 var_os="debian"
 var_version="12"
 variables
